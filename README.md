@@ -1,1 +1,0 @@
-# next-static-serve-test
